@@ -72,6 +72,16 @@ GYM_APP/
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
 
+Run Executable
+
+Download the ready-to-run .exe from the ZIP:
+Download GYM_APP v1.0
+
+Extract maingym.exe from the ZIP
+
+Double-click maingym.exe to run
+
+
 
 
 ✨ Future Improvements
