@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Mac OS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore sample or unused files
+sample_data.py
+streamlit_app.py
+
+# Optional: ignore local database if you don't want to push it
+gym_data.db
+
+# Logs
+*.log
